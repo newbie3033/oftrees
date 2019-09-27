@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="t_type">
+        <item>一级古树</item>
+        <item>二级古树</item>
+        <item>三级古树</item>
+        <item>后备资源</item>
+    </string-array>
+    <string-array name="s_type">
+        <item>沙质土</item>
+        <item>黏质土</item>
+        <item>壤土</item>
+    </string-array>
+    <string-array name="g_type">
+        <item>强</item>
+        <item>弱</item>
+    </string-array>
+    <string-array name="e_type">
+        <item>优质</item>
+        <item>良好</item>
+        <item>较差</item>
+        <item>恶劣</item>
+    </string-array>
+</resources>

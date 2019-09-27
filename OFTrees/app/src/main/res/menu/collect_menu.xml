@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.menu.Collect">
+    <item
+        android:id="@+id/data_in"
+        android:title="数据导入" />
+    <item
+        android:id="@+id/two"
+        android:title="two" />
+    <item
+        android:id="@+id/three"
+        android:title="three" />
+</menu>
